@@ -63,7 +63,7 @@
             "storage": "data.sqlite"
         }
     },
-    "APPSTATEPATH": "FAIZ ANSARI",
+    "APPSTATEPATH": "FAIZ ANSARI.json",
     "FCAOption": {
         "forceLogin": true,
         "listenEvents": true,
